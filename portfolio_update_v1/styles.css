@@ -9,7 +9,7 @@ body {
   text-align: center;
   font-family: 'Roboto', sans-serif;
   color: #222;
-  background: #f7f5f0;
+  background: #ffffff;
 }
 /* Link Styles */
 
@@ -93,14 +93,14 @@ header .profile-image:hover {
 } 
 .location {
   background-color: #222;
-  color: rgb(190, 239, 243);
+  color: rgb(130, 242, 252);
 }
 .card {
   margin: 20px;
   padding: 20px 40px 40px;
   max-width: 750px;
   text-align: left;
-  background: #fff;
+  background: rgb(183, 214, 255);
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
