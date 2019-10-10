@@ -215,6 +215,9 @@ a.social:hover {
       margin: 0 auto;
   }
 
+  .card {
+    max-width: 30%;
+  }
   header {
     min-height: 470px;
   }
